@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center">
-  I'm a Computer Science student and mobile app developer passionate about creating mobile app games and user-friendly applications. I have experience in Unity, Android and cross-platform development using Flutte and React Native. I'm currently focused on improving my skills in React Native and backend integration.
+  I'm a Computer Science student and mobile app developer passionate about creating mobile app games and user-friendly applications. I have experience in Unity, Android and cross-platform development using Flutter and React Native. I'm currently focused on improving my skills in React Native and backend integration.
 </div>
 
 ---
